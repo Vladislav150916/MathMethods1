@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MathMethods1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MathMethods1_jar</output-path>
+    <root id="archive" name="MathMethods1.jar">
+      <element id="module-output" name="MathMethods1" />
+    </root>
+  </artifact>
+</component>
